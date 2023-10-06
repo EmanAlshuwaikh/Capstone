@@ -1,1 +1,5 @@
-# Capstone
+# Austin Animal Shelter
+### Data Analysis Capstone Project
+In this project,  I assumed that I own a company called STS that uses data analysis to guide companies to their own success. As part of the Corporate Social Responsibility, I take on pro bono cases every now and then. Hence, a friend asked for my help in order to lessen the burdens on the animal shelter. She needed me to assess the KPIs and find solutions to their existing problems. As this is imaginary, I tried to make it as realistic as possible. Hence, the no kill policy goal was real alongside with their problems. While researching on Austin Animal Shelter, I came across two of their problems within articles published. The first was that the no kill policy should be removed as there is an overcrowding issue. The second is that the monthly reports are published independent of each other without comparison. Hence, a business model was suggested to sustain the shelter alongside a dashboard to get an overview of the shelter.
+
+For the presentation, please click on [Austin Animal Shelter](https://www.canva.com/design/DAFvSB4u_gM/MZvArjhkA_abJdyE7fZV1w/view?utm_content=DAFvSB4u_gM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=GLBHk_GNvA).
